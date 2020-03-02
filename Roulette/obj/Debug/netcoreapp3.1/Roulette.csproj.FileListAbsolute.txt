@@ -1,0 +1,11 @@
+C:\Users\phat7\source\repos\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.exe
+C:\Users\phat7\source\repos\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.deps.json
+C:\Users\phat7\source\repos\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.json
+C:\Users\phat7\source\repos\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.dev.json
+C:\Users\phat7\source\repos\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.dll
+C:\Users\phat7\source\repos\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.pdb
+C:\Users\phat7\source\repos\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.csprojAssemblyReference.cache
+C:\Users\phat7\source\repos\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfoInputs.cache
+C:\Users\phat7\source\repos\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfo.cs
+C:\Users\phat7\source\repos\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.dll
+C:\Users\phat7\source\repos\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.pdb
